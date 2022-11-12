@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "The Secret Path LLC",
+    "occupation": "Project Manager and GWU Full Stack Coding Student",
+    "description": "Changing to a Coding Career",
+    "image": "Headshot2.jpg",
+    "intro": "A woman owned business where the goal is to help small businesses gain online visibility through web presence and marketing skills at little to no cost. It's the Secret Path to success for small businesses.",
+    "bio": "Welcome to The Secret Path LLC, a woman owned business where the goal is to help small businesses gain online visibility through web presence and marketing skills at little to no cost. The Secret Path LLC knows it is difficult running a business while trying to find time to build an online presence and develop marketing plans for brand growth, especially with everything that is going on nowadays. This is what we offer:",
+    "bio2": "It is The Secret Path LLC’s belief that by filling this gap, small businesses can grow to their full potential by creating brand recognition and stakeholder connections. If you think your small business would benefit from having a broader online presence, please reach out via email.",
+    "service1": "Website Development, Setup and Training,",
+    "service2": "Marketing Basics Training,",
+    "service3": "Marketing Plan Development,",
+    "service4": "Logo Design.",
+    "contactmessage": "Contact info below: ",
+    "email": "thesecretpathllc@gmail.com",
+    "address": {
+      "city": "Manassas",
+      "state": "Northern VA"
+    },
+    "website": "https://www.timbakerdev.com",
+    "resumedownload": "images/portfolio/AshlyMayle-TechnicalResume.pdf",
+    "social": [
+      {
+        "name": "Other Portfolio",
+        "url": "https://radiant-dawn-57014.herokuapp.com/",
+        "className": "fa fa-briefcase "
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/infiernodeashly",
+        "className": "fa fa-github"
+      },
+       {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/thesecretpathllc/",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "George Washington University",
+        "degree": "Full-Stack Coding Bootcamp",
+        "description": "Javascript, Reactjs, jQuery, MongoDB, MySQL, JNode, JSON, AJAX"
+      },
+      {
+        "school": "Bellevue University",
+        "degree": "M.S. Computer Information Systems",
+        "description": "Focus on Project Management and System Architecture"
+      },
+      {
+        "school": "George Mason University",
+        "degree": "B.A. Communication - Public Relations",
+        "description": "Focus on Public Relations with Minor in Business"
+      }
+    ],
+    "work": [
+      {
+        "company": "Project Management",
+        "title": "IT Project Manager",
+        "description": "System development Project Management for government clients."
+      },
+      {
+        "company": "Marketing/Logo Design",
+        "title": "Outreach Specialists, Communication Specialist, and Marketing Analyst",
+        "description": "Marketing, media relations, and outreach strategies creation, along with multimedia development for government clients. Marketing communications, promotional branding, and strategy development for private and nonprofit clients."
+      },
+      {
+        "company": "Web Design",
+        "title": "Data Analyst and Full Stack Developer",
+        "description": "System development, Website updates, and website user analysis test development and execution for government clients. Develop websites for small businesses."
+      }
+    ],
+    "skills": [
+      {
+        "name": "System Development",
+        "level": "100%"
+      },
+      {
+        "name": "Project Management",
+        "level": "100%"
+      },
+      {
+        "name": "Marketing",
+        "level": "100%"
+      },
+      {
+        "name": "Graphic Design",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Club De Vida Demo",
+        "category": "Fitness and Wellness",
+        "image": "storefront.jpg",
+        "url": "https://infiernodeashly.wixsite.com/clubdevidademo"
+      },
+      {
+        "title": "American Dreaming Farm and Gardens Demo",
+        "category": "Produce and Flora",
+        "image": "sunflower.jpg",
+        "url": "https://infiernodeashly.wixsite.com/adfg-demo"
+      },
+      {
+        "title": "Mulligans Pub on the Green",
+        "category": "Restaurant and Golf",
+        "image": "mulligans.png",
+        "url": "https://mulliganspubonthegreen.godaddysites.com/"
+      },
+      {
+        "title": "Base Nutrition",
+        "category": "Smoothies and Nutrition",
+        "image": "basenutrition.jpg",
+        "url": "https://thesecretpathllc.wixsite.com/base-nutrition"
+      }         
+
+    ],
+    "marketing": [
+      {
+        "title": "Keep Calm & Purr On",
+        "category": "Social Media",
+        "image": "keepcalmgraphic.png",
+        "url": "https://www.facebook.com/103699122123066/posts/112743394551972/?d=n"
+      },
+      {
+        "title": "ResidentLinks Promotion Plan",
+        "category": "Promotional Event",
+        "image": "ResidentLinks.png",
+        "url": "https://ashlymayle.wordpress.com/portfolio/pr-marketing/"
+      },
+      {
+        "title": "Social Entrepreneurship Campaign",
+        "category": "Public Relations Campaign",
+        "image": "SocialEntrepreneurshipCampaign.png",
+        "url": "https://ashlymayle.wordpress.com/portfolio/pr-marketing/"
+      }      
+
+    ],
+    "logos": [
+      {
+        "title": "American Dreaming Farm and Gardens Logo",
+        "category": "Produce and Flora",
+        "image": "ADFGLogo2.png"
+         
+      },
+      {
+        "title": "Custom Client Logo",
+        "category": "Self Promotion",
+        "image": "Initial.png"
+        
+      },
+      {
+        "title": "The Secret Path Accessories",
+        "category": "Jewelry and Accessories",
+        "image": "Logo1.png"
+        
+      }      
+
+    ]
+  }
+}
