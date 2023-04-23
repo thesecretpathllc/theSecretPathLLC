@@ -95,6 +95,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Mulligans Pub on the Green",
+        "category": "Restaurant and Golf",
+        "image": "mulligans.png",
+        "url": "https://www.mulliganspubotg.com/"
+      },
+      {
         "title": "Club De Vida Demo",
         "category": "Fitness and Wellness",
         "image": "storefront.jpg",
@@ -105,15 +111,9 @@
         "category": "Produce and Flora",
         "image": "sunflower.jpg",
         "url": "https://infiernodeashly.wixsite.com/adfg-demo"
-      },
+      },      
       {
-        "title": "Mulligans Pub on the Green",
-        "category": "Restaurant and Golf",
-        "image": "mulligans.png",
-        "url": "https://mulliganspubonthegreen.godaddysites.com/"
-      },
-      {
-        "title": "Base Nutrition",
+        "title": "Base Nutrition Demo",
         "category": "Smoothies and Nutrition",
         "image": "basenutrition.jpg",
         "url": "https://thesecretpathllc.wixsite.com/base-nutrition"
